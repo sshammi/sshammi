@@ -1,4 +1,4 @@
-### Hi there 👋, I am Suraiya Shammi
+###  I am Suraiya Shammi
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://media.licdn.com/dms/image/v2/D5616AQFTIH1nzxf-0g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1710086298695?e=1749686400&v=beta&t=1J1f-62KAodMXVnWyvkcYIk0VDrVK5ayPjnQyYyQ1Bs)
 
